@@ -1,0 +1,224 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Kaushan+Script&family=Playwrite+AU+QLD:wght@100..400&family=Sofia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Dancing+Script:wght@400..700&family=Kaushan+Script&family=Playwrite+AU+QLD:wght@100..400&family=Sofia&display=swap');
+
+
+body{
+    height: 100%;
+    background: linear-gradient(180deg, #ADD8E6, #8A2BE2);
+  
+
+    
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color:white ;
+    color: #836eb3 ;
+    border-radius: 35px;
+
+}
+.navleft{
+    padding-left: 30px;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.navright{
+    padding-right: 50px;
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+}
+
+.ele{
+    padding: 10px;
+    color:black;
+    border-radius: 20px;
+    margin-right: 20px;
+    background-color:  #836eb37b ;
+    font-family: "Dancing Script", cursive;
+    
+}
+
+.name{
+    
+    background-color:#d1cebd;
+    margin-top: 5px;
+ 
+}
+
+
+
+
+.home{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 2px;
+    height: 450px;
+    
+    
+}
+
+.homeheading{
+    
+    justify-content: left;
+    margin: 30px;
+    text-align: center;
+    margin-top: 100px;
+    font-family: "Kaushan Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 200%;
+    padding-bottom: 5px;
+    
+
+
+    
+    
+}
+
+.homelogo{
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    
+    justify-content: center;
+    margin: 50px;
+
+}
+
+
+.about{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 2px;
+    height: 450px;
+    
+    
+}
+
+.aboutus{
+   
+    margin: 50px;
+    font-size: 100%;
+    padding-right: 10px; 
+    
+}
+.aboutus p{
+    text-align: center;
+    font-family: "Courgette", cursive;
+    font-size: 120%;
+    font-style: normal;
+    font-weight: 400;
+    
+}
+.aboutus h1{
+    text-align: center;
+    font-family: "Kaushan Script", cursive;
+    font-size: 200%;
+    font-style: normal;
+    font-weight: 400;
+    
+}
+
+.logo{
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.button{
+    text-align: center;
+    padding: 5px;
+    border-radius: 50px;
+    margin-left: 500px;
+    background-color: #c5a1e4 ;
+    font-family: "Kaushan Script", cursive;
+    width: 30%;
+    font-size: 150%;
+
+
+    
+}
+
+
+.heading{
+    text-align: center;
+    margin: 10px;
+    font-family: "Kaushan Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 300%;
+}
+.features{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 50px;
+}
+
+.card{
+    border:2px solid black;
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+    background-color: #c5a1e4;
+    height:250px;
+    width: 250px;
+    border-radius: 50px;
+}
+
+.why{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   
+    height: 450px;
+}
+
+.whylogo{
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    
+    justify-content: center;
+    margin: 50px;
+
+}
+
+.whygenie{
+    justify-content: left;
+    margin: 30px;
+    text-align: left;
+    margin-top: 100px;
+    font-family: "Courgette", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 150%;
+    padding-bottom: 5px;
+
+}
+
+.whygenie p{
+    font-size: 40px;
+}
+
+
+.footer{
+    background-color: white;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
